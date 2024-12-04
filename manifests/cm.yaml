@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ddns-py
+  labels:
+    app: ddns-py
+data:
+  DNS_ENTRY: 'FQDN DO REGISTRO'
+  DNS_TYPE: 'TIPO DO REGISTRO'
+
+  
