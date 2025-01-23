@@ -1,6 +1,14 @@
 #!/bin/python3
 import requests as re
 import json, os
+
+
+
+
+
+
+
+
 from dotenv import load_dotenv
 
 load_dotenv()
